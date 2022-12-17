@@ -1,0 +1,19 @@
+{
+  "name": "social-network-mongodb",
+  "version": "1.0.0",
+  "description": "Small social network app using mainly mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neft-tk/social-network-mongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neft-tk/social-network-mongoDB/issues"
+  },
+  "homepage": "https://github.com/neft-tk/social-network-mongoDB#readme"
+}
