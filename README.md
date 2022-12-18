@@ -32,3 +32,9 @@ N/A
 ## Questions <a name="questions"></a>
 My GitHub username is neft-tk, and you can see more of my work at https://github.com/neft-tk 
 You can also reach me at ebussman@gmail.com
+
+![screenshot1](./assets/screenshot-1.png)
+![screenshot2](./assets/screenshot-2.png)
+![screenshot3](./assets/screenshot-3.png)
+![screenshot4](./assets/screenshot-4.png)
+![video-demo](./assets/social%20network%20api.webm)
