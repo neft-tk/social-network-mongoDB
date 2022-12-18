@@ -4,6 +4,8 @@
   "description": "Small social network app using mainly mongoDB",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "seed": "node utils/seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/neft-tk/social-network-mongoDB/issues"
   },
-  "homepage": "https://github.com/neft-tk/social-network-mongoDB#readme"
+  "homepage": "https://github.com/neft-tk/social-network-mongoDB#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0"
+  }
 }
